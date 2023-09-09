@@ -21,7 +21,7 @@ public class BancoApp {
 
 
 
-        System.out.printf("Valor final do investimento é: R$ %.2f", valorFinal);
+        System.out.printf("Valor final do investimento: R$ %.2f", valorFinal);
 
         scanner.close();
 
