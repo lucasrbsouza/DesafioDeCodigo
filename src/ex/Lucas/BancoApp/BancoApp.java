@@ -16,7 +16,7 @@ public class BancoApp {
         double valorFinal = valorInicial;
 
 
-        //TODO: Iterar, baseado no período em anos, para calculo do valorFinal com os juros.
+        //TODO: Iterar, baseado no período em anos, para calculo do valorFinal com os juros
         valorFinal = valorInicial * Math.pow(1 + taxaJuros, periodo);
 
 
